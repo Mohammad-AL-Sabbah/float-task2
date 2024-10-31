@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    width: 49%;
+}
+.product{
+    border: 1px solid rgb(30, 29, 29);
+    margin: auto;
+}
+.products{
+    float: left;
+    width: 25%;
+    margin-left:auto ;
+    margin-right:auto ;
+    margin-top: 10px;
+}
+.products img{
+    width: 180px;
+    margin-left: 5px;
+    height: 106px;
+}
+.img-frame{
+    width: 183px;
+    border: 1px solid rgba(128, 128, 128, 0.285);
+    margin: auto;
+    border-radius: 5px;
+    height: 238px;
+}
+.img-frame img{
+    width: 173px;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+.img-frame h3{
+    margin-top: 2px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+.img-frame p{
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 5px;
+    color: rgba(23, 23, 23, 0.626);
+}
+.img-frame h4{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 15px;
+    color: rgba(16, 176, 16, 0.813);
+    display: inline-block;
+}
+.img-frame h5{
+    font-size: 12px;
+    color: red;
+    display: inline-block;
+    text-decoration: line-through;
+}
+.box {
+    margin-left: 2px;
+    width: 135px;
+    height: 25px;
+    display: inline-block;
+    border: rgb(0, 123, 253) solid 1px;
+    border-radius: 0px;
+    background-color: rgb(0, 123, 253);
+    border-bottom-left-radius: 5px;
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+.item{
+    margin-top: 5px;
+}
+.item {
+    text-decoration: none;
+    display: inline-block;
+}
+.item h6{
+    display: inline-block;
+    font-size: 11px;
+}
+
+.cla{
+    width: 30px;
+    height: 24px;
+    color:rgb(0, 123, 253) ;
+    background-color: white;
+    border: rgb(0, 123, 253) solid 2px;
+    display: inline;
+    margin-right: 6px;
+    float: right;
+    border-bottom-right-radius: 3px;
+    margin-top: -27px;
+}
+
+.cla i{
+    clear: both;
+    margin-top: 4px;
+    font-size: 17px;
+    margin-left: 6px;
+    color:rgb(0, 123, 253) ;
+
+}
+.title h2{
+    margin-top: 15px;
+}
+.box{
+    margin-left: 5px;
+    width: 135px;
+    height: 25px;
+    display: inline-block;
+    border: rgb(0, 123, 253) solid 1px;
+    border-radius: 0px;
+    background-color: rgb(0, 123, 253);
+    border-bottom-left-radius: 5px;
+    font-size: 10px;
+    margin-top: 9px;
+    color: white;
+}
+.item i{
+    margin-bottom: 15px;
+}
